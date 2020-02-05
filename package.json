@@ -4,5 +4,10 @@
   "main": "index.js",
   "repository": "https://github.com/rhaisa/meme-scraper.git",
   "author": "Rhaisa Alves <rhaisalouiseadm@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "get-image-urls": "^1.0.5",
+    "request": "^2.88.0"
+  }
 }
