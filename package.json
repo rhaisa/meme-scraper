@@ -1,0 +1,8 @@
+{
+  "name": "meme-scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rhaisa/meme-scraper.git",
+  "author": "Rhaisa Alves <rhaisalouiseadm@gmail.com>",
+  "license": "MIT"
+}
