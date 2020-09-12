@@ -9,7 +9,7 @@
     "cheerio": "^1.0.0-rc.3",
     "get-image-urls": "^1.0.5",
     "image-downloader": "^3.5.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "request": "^2.88.0",
     "save": "^2.4.0"
   }
